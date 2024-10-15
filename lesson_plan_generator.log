@@ -1,0 +1,563 @@
+2024-10-15 16:21:24,821 - INFO - Starting PDF text extraction
+2024-10-15 16:21:24,821 - INFO - Starting PDF text extraction
+2024-10-15 16:21:24,921 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:21:24,921 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:21:24,923 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:21:24,923 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:01,471 - INFO - Lesson plan successfully generated
+2024-10-15 16:22:01,471 - INFO - Lesson plan successfully generated
+2024-10-15 16:22:33,406 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,406 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,406 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,449 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,449 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,449 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,451 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:33,451 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:33,451 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:33,583 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,583 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,583 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,583 - INFO - Starting PDF text extraction
+2024-10-15 16:22:33,621 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,621 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,621 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,621 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:22:33,623 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:33,623 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:33,623 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:22:33,623 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:23:05,277 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:05,277 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:05,277 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:05,277 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:11,006 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:11,006 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:11,006 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:11,006 - INFO - Lesson plan successfully generated
+2024-10-15 16:23:11,008 - INFO - Creating PDF document
+2024-10-15 16:23:11,008 - INFO - Creating PDF document
+2024-10-15 16:23:11,008 - INFO - Creating PDF document
+2024-10-15 16:23:11,008 - INFO - Creating PDF document
+2024-10-15 16:23:11,009 - INFO - Starting image generation
+2024-10-15 16:23:11,009 - INFO - Starting image generation
+2024-10-15 16:23:11,009 - INFO - Starting image generation
+2024-10-15 16:23:11,009 - INFO - Starting image generation
+2024-10-15 16:23:14,421 - INFO - Image successfully generated
+2024-10-15 16:23:14,421 - INFO - Image successfully generated
+2024-10-15 16:23:14,421 - INFO - Image successfully generated
+2024-10-15 16:23:14,421 - INFO - Image successfully generated
+2024-10-15 16:23:14,423 - INFO - Starting image generation
+2024-10-15 16:23:14,423 - INFO - Starting image generation
+2024-10-15 16:23:14,423 - INFO - Starting image generation
+2024-10-15 16:23:14,423 - INFO - Starting image generation
+2024-10-15 16:23:18,169 - INFO - Image successfully generated
+2024-10-15 16:23:18,169 - INFO - Image successfully generated
+2024-10-15 16:23:18,169 - INFO - Image successfully generated
+2024-10-15 16:23:18,169 - INFO - Image successfully generated
+2024-10-15 16:23:18,170 - INFO - Starting image generation
+2024-10-15 16:23:18,170 - INFO - Starting image generation
+2024-10-15 16:23:18,170 - INFO - Starting image generation
+2024-10-15 16:23:18,170 - INFO - Starting image generation
+2024-10-15 16:23:20,477 - INFO - Image successfully generated
+2024-10-15 16:23:20,477 - INFO - Image successfully generated
+2024-10-15 16:23:20,477 - INFO - Image successfully generated
+2024-10-15 16:23:20,477 - INFO - Image successfully generated
+2024-10-15 16:23:20,478 - INFO - Starting image generation
+2024-10-15 16:23:20,478 - INFO - Starting image generation
+2024-10-15 16:23:20,478 - INFO - Starting image generation
+2024-10-15 16:23:20,478 - INFO - Starting image generation
+2024-10-15 16:23:23,543 - INFO - Image successfully generated
+2024-10-15 16:23:23,543 - INFO - Image successfully generated
+2024-10-15 16:23:23,543 - INFO - Image successfully generated
+2024-10-15 16:23:23,543 - INFO - Image successfully generated
+2024-10-15 16:23:23,545 - INFO - Starting image generation
+2024-10-15 16:23:23,545 - INFO - Starting image generation
+2024-10-15 16:23:23,545 - INFO - Starting image generation
+2024-10-15 16:23:23,545 - INFO - Starting image generation
+2024-10-15 16:23:27,672 - INFO - Image successfully generated
+2024-10-15 16:23:27,672 - INFO - Image successfully generated
+2024-10-15 16:23:27,672 - INFO - Image successfully generated
+2024-10-15 16:23:27,672 - INFO - Image successfully generated
+2024-10-15 16:23:27,674 - INFO - Starting image generation
+2024-10-15 16:23:27,674 - INFO - Starting image generation
+2024-10-15 16:23:27,674 - INFO - Starting image generation
+2024-10-15 16:23:27,674 - INFO - Starting image generation
+2024-10-15 16:23:30,348 - INFO - Image successfully generated
+2024-10-15 16:23:30,348 - INFO - Image successfully generated
+2024-10-15 16:23:30,348 - INFO - Image successfully generated
+2024-10-15 16:23:30,348 - INFO - Image successfully generated
+2024-10-15 16:23:30,349 - INFO - Starting image generation
+2024-10-15 16:23:30,349 - INFO - Starting image generation
+2024-10-15 16:23:30,349 - INFO - Starting image generation
+2024-10-15 16:23:30,349 - INFO - Starting image generation
+2024-10-15 16:23:33,636 - INFO - Image successfully generated
+2024-10-15 16:23:33,636 - INFO - Image successfully generated
+2024-10-15 16:23:33,636 - INFO - Image successfully generated
+2024-10-15 16:23:33,636 - INFO - Image successfully generated
+2024-10-15 16:23:33,637 - INFO - Starting image generation
+2024-10-15 16:23:33,637 - INFO - Starting image generation
+2024-10-15 16:23:33,637 - INFO - Starting image generation
+2024-10-15 16:23:33,637 - INFO - Starting image generation
+2024-10-15 16:23:37,414 - INFO - Image successfully generated
+2024-10-15 16:23:37,414 - INFO - Image successfully generated
+2024-10-15 16:23:37,414 - INFO - Image successfully generated
+2024-10-15 16:23:37,414 - INFO - Image successfully generated
+2024-10-15 16:23:37,415 - INFO - Starting image generation
+2024-10-15 16:23:37,415 - INFO - Starting image generation
+2024-10-15 16:23:37,415 - INFO - Starting image generation
+2024-10-15 16:23:37,415 - INFO - Starting image generation
+2024-10-15 16:23:39,632 - INFO - Starting PDF text extraction
+2024-10-15 16:23:39,632 - INFO - Starting PDF text extraction
+2024-10-15 16:23:39,632 - INFO - Starting PDF text extraction
+2024-10-15 16:23:39,632 - INFO - Starting PDF text extraction
+2024-10-15 16:23:39,632 - INFO - Starting PDF text extraction
+2024-10-15 16:23:39,665 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:23:39,665 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:23:39,665 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:23:39,665 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:23:39,665 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:23:39,667 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:23:39,667 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:23:39,667 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:23:39,667 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:23:39,667 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:23:40,703 - INFO - Image successfully generated
+2024-10-15 16:23:40,703 - INFO - Image successfully generated
+2024-10-15 16:23:40,703 - INFO - Image successfully generated
+2024-10-15 16:23:40,703 - INFO - Image successfully generated
+2024-10-15 16:23:40,703 - INFO - Image successfully generated
+2024-10-15 16:23:40,704 - INFO - Starting image generation
+2024-10-15 16:23:40,704 - INFO - Starting image generation
+2024-10-15 16:23:40,704 - INFO - Starting image generation
+2024-10-15 16:23:40,704 - INFO - Starting image generation
+2024-10-15 16:23:40,704 - INFO - Starting image generation
+2024-10-15 16:23:43,950 - INFO - Image successfully generated
+2024-10-15 16:23:43,950 - INFO - Image successfully generated
+2024-10-15 16:23:43,950 - INFO - Image successfully generated
+2024-10-15 16:23:43,950 - INFO - Image successfully generated
+2024-10-15 16:23:43,950 - INFO - Image successfully generated
+2024-10-15 16:23:43,952 - INFO - Starting image generation
+2024-10-15 16:23:43,952 - INFO - Starting image generation
+2024-10-15 16:23:43,952 - INFO - Starting image generation
+2024-10-15 16:23:43,952 - INFO - Starting image generation
+2024-10-15 16:23:43,952 - INFO - Starting image generation
+2024-10-15 16:23:48,655 - INFO - Image successfully generated
+2024-10-15 16:23:48,655 - INFO - Image successfully generated
+2024-10-15 16:23:48,655 - INFO - Image successfully generated
+2024-10-15 16:23:48,655 - INFO - Image successfully generated
+2024-10-15 16:23:48,655 - INFO - Image successfully generated
+2024-10-15 16:23:48,656 - INFO - Starting image generation
+2024-10-15 16:23:48,656 - INFO - Starting image generation
+2024-10-15 16:23:48,656 - INFO - Starting image generation
+2024-10-15 16:23:48,656 - INFO - Starting image generation
+2024-10-15 16:23:48,656 - INFO - Starting image generation
+2024-10-15 16:23:51,822 - INFO - Image successfully generated
+2024-10-15 16:23:51,822 - INFO - Image successfully generated
+2024-10-15 16:23:51,822 - INFO - Image successfully generated
+2024-10-15 16:23:51,822 - INFO - Image successfully generated
+2024-10-15 16:23:51,822 - INFO - Image successfully generated
+2024-10-15 16:23:51,824 - INFO - Starting image generation
+2024-10-15 16:23:51,824 - INFO - Starting image generation
+2024-10-15 16:23:51,824 - INFO - Starting image generation
+2024-10-15 16:23:51,824 - INFO - Starting image generation
+2024-10-15 16:23:51,824 - INFO - Starting image generation
+2024-10-15 16:23:55,445 - INFO - Image successfully generated
+2024-10-15 16:23:55,445 - INFO - Image successfully generated
+2024-10-15 16:23:55,445 - INFO - Image successfully generated
+2024-10-15 16:23:55,445 - INFO - Image successfully generated
+2024-10-15 16:23:55,445 - INFO - Image successfully generated
+2024-10-15 16:23:57,319 - INFO - PDF document created successfully
+2024-10-15 16:23:57,319 - INFO - PDF document created successfully
+2024-10-15 16:23:57,319 - INFO - PDF document created successfully
+2024-10-15 16:23:57,319 - INFO - PDF document created successfully
+2024-10-15 16:23:57,319 - INFO - PDF document created successfully
+2024-10-15 16:24:06,809 - INFO - Lesson plan successfully generated
+2024-10-15 16:24:06,809 - INFO - Lesson plan successfully generated
+2024-10-15 16:24:06,809 - INFO - Lesson plan successfully generated
+2024-10-15 16:24:06,809 - INFO - Lesson plan successfully generated
+2024-10-15 16:24:06,809 - INFO - Lesson plan successfully generated
+2024-10-15 16:24:06,811 - INFO - Creating PDF document
+2024-10-15 16:24:06,811 - INFO - Creating PDF document
+2024-10-15 16:24:06,811 - INFO - Creating PDF document
+2024-10-15 16:24:06,811 - INFO - Creating PDF document
+2024-10-15 16:24:06,811 - INFO - Creating PDF document
+2024-10-15 16:24:06,813 - INFO - Starting image generation
+2024-10-15 16:24:06,813 - INFO - Starting image generation
+2024-10-15 16:24:06,813 - INFO - Starting image generation
+2024-10-15 16:24:06,813 - INFO - Starting image generation
+2024-10-15 16:24:06,813 - INFO - Starting image generation
+2024-10-15 16:24:12,676 - INFO - Image successfully generated
+2024-10-15 16:24:12,676 - INFO - Image successfully generated
+2024-10-15 16:24:12,676 - INFO - Image successfully generated
+2024-10-15 16:24:12,676 - INFO - Image successfully generated
+2024-10-15 16:24:12,676 - INFO - Image successfully generated
+2024-10-15 16:24:12,678 - INFO - Starting image generation
+2024-10-15 16:24:12,678 - INFO - Starting image generation
+2024-10-15 16:24:12,678 - INFO - Starting image generation
+2024-10-15 16:24:12,678 - INFO - Starting image generation
+2024-10-15 16:24:12,678 - INFO - Starting image generation
+2024-10-15 16:24:21,433 - INFO - Image successfully generated
+2024-10-15 16:24:21,433 - INFO - Image successfully generated
+2024-10-15 16:24:21,433 - INFO - Image successfully generated
+2024-10-15 16:24:21,433 - INFO - Image successfully generated
+2024-10-15 16:24:21,433 - INFO - Image successfully generated
+2024-10-15 16:24:21,435 - INFO - Starting image generation
+2024-10-15 16:24:21,435 - INFO - Starting image generation
+2024-10-15 16:24:21,435 - INFO - Starting image generation
+2024-10-15 16:24:21,435 - INFO - Starting image generation
+2024-10-15 16:24:21,435 - INFO - Starting image generation
+2024-10-15 16:24:24,748 - INFO - Image successfully generated
+2024-10-15 16:24:24,748 - INFO - Image successfully generated
+2024-10-15 16:24:24,748 - INFO - Image successfully generated
+2024-10-15 16:24:24,748 - INFO - Image successfully generated
+2024-10-15 16:24:24,748 - INFO - Image successfully generated
+2024-10-15 16:24:24,750 - INFO - Starting image generation
+2024-10-15 16:24:24,750 - INFO - Starting image generation
+2024-10-15 16:24:24,750 - INFO - Starting image generation
+2024-10-15 16:24:24,750 - INFO - Starting image generation
+2024-10-15 16:24:24,750 - INFO - Starting image generation
+2024-10-15 16:24:28,721 - INFO - Image successfully generated
+2024-10-15 16:24:28,721 - INFO - Image successfully generated
+2024-10-15 16:24:28,721 - INFO - Image successfully generated
+2024-10-15 16:24:28,721 - INFO - Image successfully generated
+2024-10-15 16:24:28,721 - INFO - Image successfully generated
+2024-10-15 16:24:28,723 - INFO - Starting image generation
+2024-10-15 16:24:28,723 - INFO - Starting image generation
+2024-10-15 16:24:28,723 - INFO - Starting image generation
+2024-10-15 16:24:28,723 - INFO - Starting image generation
+2024-10-15 16:24:28,723 - INFO - Starting image generation
+2024-10-15 16:24:31,997 - INFO - Image successfully generated
+2024-10-15 16:24:31,997 - INFO - Image successfully generated
+2024-10-15 16:24:31,997 - INFO - Image successfully generated
+2024-10-15 16:24:31,997 - INFO - Image successfully generated
+2024-10-15 16:24:31,997 - INFO - Image successfully generated
+2024-10-15 16:24:31,999 - INFO - Starting image generation
+2024-10-15 16:24:31,999 - INFO - Starting image generation
+2024-10-15 16:24:31,999 - INFO - Starting image generation
+2024-10-15 16:24:31,999 - INFO - Starting image generation
+2024-10-15 16:24:31,999 - INFO - Starting image generation
+2024-10-15 16:24:37,564 - INFO - Image successfully generated
+2024-10-15 16:24:37,564 - INFO - Image successfully generated
+2024-10-15 16:24:37,564 - INFO - Image successfully generated
+2024-10-15 16:24:37,564 - INFO - Image successfully generated
+2024-10-15 16:24:37,564 - INFO - Image successfully generated
+2024-10-15 16:24:37,566 - INFO - Starting image generation
+2024-10-15 16:24:37,566 - INFO - Starting image generation
+2024-10-15 16:24:37,566 - INFO - Starting image generation
+2024-10-15 16:24:37,566 - INFO - Starting image generation
+2024-10-15 16:24:37,566 - INFO - Starting image generation
+2024-10-15 16:24:40,700 - INFO - Image successfully generated
+2024-10-15 16:24:40,700 - INFO - Image successfully generated
+2024-10-15 16:24:40,700 - INFO - Image successfully generated
+2024-10-15 16:24:40,700 - INFO - Image successfully generated
+2024-10-15 16:24:40,700 - INFO - Image successfully generated
+2024-10-15 16:24:40,701 - INFO - Starting image generation
+2024-10-15 16:24:40,701 - INFO - Starting image generation
+2024-10-15 16:24:40,701 - INFO - Starting image generation
+2024-10-15 16:24:40,701 - INFO - Starting image generation
+2024-10-15 16:24:40,701 - INFO - Starting image generation
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,848 - INFO - Starting PDF text extraction
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,885 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:27:29,888 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:03,765 - INFO - Lesson plan successfully generated
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,320 - INFO - Starting PDF text extraction
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,365 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:28:33,368 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,917 - INFO - Lesson plan successfully generated
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,919 - INFO - Creating PDF document
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:05,922 - INFO - Starting image generation
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,964 - INFO - Image successfully generated
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:08,966 - INFO - Starting image generation
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,308 - INFO - Image successfully generated
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:12,310 - INFO - Starting image generation
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,083 - INFO - Image successfully generated
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:16,085 - INFO - Starting image generation
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,453 - INFO - Image successfully generated
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:19,455 - INFO - Starting image generation
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,043 - INFO - Image successfully generated
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:23,045 - INFO - Starting image generation
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,276 - INFO - Image successfully generated
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:26,278 - INFO - Starting image generation
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,767 - INFO - Image successfully generated
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:30,769 - INFO - Starting image generation
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,737 - INFO - Image successfully generated
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:34,739 - INFO - Starting image generation
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,538 - INFO - Image successfully generated
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:38,540 - INFO - Starting image generation
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,113 - INFO - Image successfully generated
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:42,116 - INFO - Starting image generation
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,571 - INFO - Image successfully generated
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:48,573 - INFO - Starting image generation
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:53,501 - INFO - Image successfully generated
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:29:55,773 - INFO - PDF document created successfully
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,725 - INFO - Starting PDF text extraction
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,778 - INFO - Successfully extracted text from the PDF
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:30:51,780 - INFO - Starting lesson plan generation with DeepInfra
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
+2024-10-15 16:31:21,799 - INFO - Lesson plan successfully generated
